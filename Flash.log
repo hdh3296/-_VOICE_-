@@ -1,0 +1,148 @@
+	       FusionChips Inc. BIN file log
+Date : 2018/07/26 10:43:56
+Device : FC100X
+
+Flash Memory Size : 32M
+Total data area :  4193280 byte    used % : 26.64 %
+used area : 1117296 byte   remain area : 3075984 byte
+
+Directory : D:\Dropbox\MyDevProjs\VoiceMent\Project\러시아(마이너스)_스탠다드\
+File Name : Flash.bin
+Total Phrase Number is 116
+
+*** Flash Data Unprotected. 
+*** File Name is included in BIN file. 
+*** Apply to Advanced downloading. 
+
+ Number    Size    Start    Fs  Comp. Rate  Remark  FileName
+-------------------------------------------------------
+    0     10188  00_0000h  16k     3.6X       **    00_gong.sbc
+    1      1008  00_27cch  16k     3.6X       **    01_up.sbc
+    2      3384  00_2bbch  16k     3.6X       **    02_down.sbc
+    3     45756  00_38f4h  16k     3.6X       **    03_fire.sbc
+    4     31032  00_ebb0h  16k     3.6X       **    04_ovrld.sbc
+    5     77940  01_64e8h  16k     3.6X       **    05_emergency.sbc
+    6     17028  02_955ch  16k     3.6X       **    06_close.sbc
+    7     54108  02_d7e0h  16k     3.6X       **    07_power_down.sbc
+    8      2124  03_ab3ch  16k     3.6X       **    08_silenec.sbc
+    9      2124  03_b388h  16k     3.6X       **    09_silenec.sbc
+-------------------------------------------------------
+   10      2124  03_bbd4h  16k     3.6X       **    10_silenec.sbc
+   11      2124  03_c420h  16k     3.6X       **    11_silenec.sbc
+   12      2124  03_cc6ch  16k     3.6X       **    12_silenec.sbc
+   13     15804  03_d4b8h  16k     3.6X       **    13_'B2' - P2 floor.sbc
+   14     11412  04_1274h  16k     3.6X       **    14_'B1' - P1 floor.sbc
+   15     10764  04_3f08h  16k     3.6X       **    15_'01' floor.sbc
+   16     13428  04_6914h  16k     3.6X       **    16_'02' floor.sbc
+   17     11700  04_9d88h  16k     3.6X       **    17_'03' floor.sbc
+   18     13356  04_cb3ch  16k     3.6X       **    18_'04' floor.sbc
+   19     11628  04_ff68h  16k     3.6X       **    19_'05' floor.sbc
+-------------------------------------------------------
+   20     13716  05_2cd4h  16k     3.6X       **    20_'06' floor.sbc
+   21     13824  05_6268h  16k     3.6X       **    21_'07' floor.sbc
+   22     14508  05_9868h  16k     3.6X       **    22_'08' floor.sbc
+   23     14652  05_d114h  16k     3.6X       **    23_'09' floor.sbc
+   24     14508  06_0a50h  16k     3.6X       **    24_'10' floor.sbc
+   25     14652  06_42fch  16k     3.6X       **    25_'11' floor.sbc
+   26     15408  06_7c38h  16k     3.6X       **    26_'12' floor.sbc
+   27     14148  06_b868h  16k     3.6X       **    27_'13' floor.sbc
+   28     15300  06_efach  16k     3.6X       **    28_'14' floor.sbc
+   29     14904  07_2b70h  16k     3.6X       **    29_'15' floor.sbc
+-------------------------------------------------------
+   30     15696  07_65a8h  16k     3.6X       **    30_'16' floor.sbc
+   31     15588  07_a2f8h  16k     3.6X       **    31_'17' floor.sbc
+   32     12636  07_dfdch  16k     3.6X       **    32_'18' floor.sbc
+   33     11736  08_1138h  16k     3.6X       **    33_'19' floor.sbc
+   34     11340  08_3f10h  16k     3.6X       **    34_'20' floor.sbc
+   35     13212  08_6b5ch  16k     3.6X       **    35_'21' floor.sbc
+   36     14004  08_9ef8h  16k     3.6X       **    36_'22' floor.sbc
+   37     13032  08_d5ach  16k     3.6X       **    37_'23' floor.sbc
+   38     13320  09_0894h  16k     3.6X       **    38_'24' floor.sbc
+   39     12744  09_3c9ch  16k     3.6X       **    39_'25' floor.sbc
+-------------------------------------------------------
+   40     12564  09_6e64h  16k     3.6X       **    40_'26' floor.sbc
+   41     13248  09_9f78h  16k     3.6X       **    41_'27' floor.sbc
+   42     13536  09_d338h  16k     3.6X       **    42_'28' floor.sbc
+   43     13572  0a_0818h  16k     3.6X       **    43_'29' floor.sbc
+   44      9720  0a_3d1ch  16k     3.6X       **    44_'30' floor.sbc
+   45     12456  0a_6314h  16k     3.6X       **    45_'31' floor.sbc
+   46     12204  0a_93bch  16k     3.6X       **    46_'32' floor.sbc
+   47      2124  0a_c368h  16k     3.6X       **    47_silence.sbc
+   48      2124  0a_cbb4h  16k     3.6X       **    48_silence.sbc
+   49      2124  0a_d400h  16k     3.6X       **    49_silence.sbc
+-------------------------------------------------------
+   50      2124  0a_dc4ch  16k     3.6X       **    50_silence.sbc
+   51      2124  0a_e498h  16k     3.6X       **    51_silence.sbc
+   52      2124  0a_ece4h  16k     3.6X       **    52_silence.sbc
+   53      2124  0a_f530h  16k     3.6X       **    53_silence.sbc
+   54      2124  0a_fd7ch  16k     3.6X       **    54_silence.sbc
+   55      2124  0b_05c8h  16k     3.6X       **    55_silence.sbc
+   56      2124  0b_0e14h  16k     3.6X       **    56_silence.sbc
+   57      9216  0b_1660h  16k     3.6X       **    57_'B2' btn.sbc
+   58      4824  0b_3a60h  16k     3.6X       **    58_'B1' btn.sbc
+   59      4680  0b_4d38h  16k     3.6X       **    59_'01' btn.sbc
+-------------------------------------------------------
+   60      3492  0b_5f80h  16k     3.6X       **    60_'02' btn.sbc
+   61      2520  0b_6d24h  16k     3.6X       **    61_'03' btn.sbc
+   62      4680  0b_76fch  16k     3.6X       **    62_'04' btn.sbc
+   63      3636  0b_8944h  16k     3.6X       **    63_'05' btn.sbc
+   64      4968  0b_9778h  16k     3.6X       **    64_'06' btn.sbc
+   65      4140  0b_aae0h  16k     3.6X       **    65_'07' btn.sbc
+   66      5364  0b_bb0ch  16k     3.6X       **    66_'08' btn.sbc
+   67      5436  0b_d000h  16k     3.6X       **    67_'09' btn.sbc
+   68      5760  0b_e53ch  16k     3.6X       **    68_'10' btn.sbc
+   69      7056  0b_fbbch  16k     3.6X       **    69_'11' btn.sbc
+-------------------------------------------------------
+   70      7992  0c_174ch  16k     3.6X       **    70_'12' btn.sbc
+   71      7164  0c_3684h  16k     3.6X       **    71_'13' btn.sbc
+   72      7308  0c_5280h  16k     3.6X       **    72_'14' btn.sbc
+   73      6516  0c_6f0ch  16k     3.6X       **    73_'15' btn.sbc
+   74      7380  0c_8880h  16k     3.6X       **    74_'16' btn.sbc
+   75      7488  0c_a554h  16k     3.6X       **    75_'17' btn.sbc
+   76      8424  0c_c294h  16k     3.6X       **    76_'18' btn.sbc
+   77      8712  0c_e37ch  16k     3.6X       **    77_'19' btn.sbc
+   78      6228  0d_0584h  16k     3.6X       **    78_'20' btn.sbc
+   79      8424  0d_1dd8h  16k     3.6X       **    79_'21' btn.sbc
+-------------------------------------------------------
+   80      7668  0d_3ec0h  16k     3.6X       **    80_'22' btn.sbc
+   81      7272  0d_5cb4h  16k     3.6X       **    81_'23' btn.sbc
+   82      8856  0d_791ch  16k     3.6X       **    82_'24' btn.sbc
+   83      8532  0d_9bb4h  16k     3.6X       **    83_'25' btn.sbc
+   84      8784  0d_bd08h  16k     3.6X       **    84_'26' btn.sbc
+   85      8100  0d_df58h  16k     3.6X       **    85_'27' btn.sbc
+   86      9324  0d_fefch  16k     3.6X       **    86_'28' btn.sbc
+   87      9108  0e_2368h  16k     3.6X       **    87_'29' btn.sbc
+   88      5652  0e_46fch  16k     3.6X       **    88_'30' btn.sbc
+   89      7740  0e_5d10h  16k     3.6X       **    89_'31' btn.sbc
+-------------------------------------------------------
+   90      6732  0e_7b4ch  16k     3.6X       **    90_'32' btn.sbc
+   91      2124  0e_9598h  16k     3.6X       **    91_silence.sbc
+   92      2124  0e_9de4h  16k     3.6X       **    92_silence.sbc
+   93      2124  0e_a630h  16k     3.6X       **    93_silence.sbc
+   94      2124  0e_ae7ch  16k     3.6X       **    94_silence.sbc
+   95      2124  0e_b6c8h  16k     3.6X       **    95_silence.sbc
+   96      2124  0e_bf14h  16k     3.6X       **    96_silence.sbc
+   97      2124  0e_c760h  16k     3.6X       **    97_silence.sbc
+   98      2124  0e_cfach  16k     3.6X       **    98_silence.sbc
+   99      2124  0e_d7f8h  16k     3.6X       **    99_silence.sbc
+-------------------------------------------------------
+  100      2124  0e_e044h  16k     3.6X       **    100_silence.sbc
+  101      2124  0e_e890h  16k     3.6X       **    101_silence.sbc
+  102     10512  0e_f0dch  16k     3.6X       **    102_'00' floor.sbc
+  103     12852  0f_19ech  16k     3.6X       **    103_'-1' floor.sbc
+  104     13248  0f_4c20h  16k     3.6X       **    104_'-2' floor.sbc
+  105     12564  0f_7fe0h  16k     3.6X       **    105_'-3' floor.sbc
+  106     13320  0f_b0f4h  16k     3.6X       **    106_'-4' floor.sbc
+  107      2124  0f_e4fch  16k     3.6X       **    107_silence.sbc
+  108      3744  0f_ed48h  16k     3.6X       **    108_'00' btn - B00.sbc
+  109      9180  0f_fbe8h  16k     3.6X       **    109_'-1' btn - B-1.sbc
+-------------------------------------------------------
+  110      7632  10_1fc4h  16k     3.6X       **    110_'-2' btn - B-2.sbc
+  111      7092  10_3d94h  16k     3.6X       **    111_'-3' btn - B-3.sbc
+  112      8172  10_5948h  16k     3.6X       **    112_'-4' btn - B-4.sbc
+  113      2124  10_7934h  16k     3.6X       **    113_silence.sbc
+  114     33444  10_8180h  16k     3.6X       **    114_urgent call.sbc
+  115      2124  11_0424h  16k     3.6X       **    1000_silence.sbc
+
+ ** : means the designated sbc file is generated from wav file
+      when you choose wav file from file list.
